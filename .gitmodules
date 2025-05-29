@@ -1,0 +1,6 @@
+[submodule "PyNVC"]
+	path = PyNVC
+	url = https://github.com/amb5l/PyNVC.git
+[submodule "nvc"]
+	path = nvc
+	url = https://github.com/amb5l/nvc.git
